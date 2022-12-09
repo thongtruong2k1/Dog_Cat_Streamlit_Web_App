@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+*.pkl
+*.onnx
+test.py 
+venv/
+~/
+.idea/
+__pycache__/
+image_database/
+temp.py
